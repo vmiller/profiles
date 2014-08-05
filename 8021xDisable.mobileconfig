@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.network.eapolcontrol.ByHost</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_data_timestamp</key>
+							<date>2014-08-05T18:01:26Z</date>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>EthernetAutoConnect</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.9aaa0bcc-86cc-4c79-ab01-3e85b8eb1269.alacarte.customsettings.da59e143-277c-4ef0-86f6-e19268042d3d</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>da59e143-277c-4ef0-86f6-e19268042d3d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.apple.network.eapolcontrol.ByHost
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.apple.network.eapolcontrol.ByHost</string>
+	<key>PayloadIdentifier</key>
+	<string>8021xDisable</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9aaa0bcc-86cc-4c79-ab01-3e85b8eb1269</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
