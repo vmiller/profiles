@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Excel</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>14\Microsoft Excel\Hide Welcome Window</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.22cd0025-2c31-4bd7-9c8e-1358c68ac81b.alacarte.customsettings.5f0808d8-e313-40ce-afac-a11fed6fe296</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>5f0808d8-e313-40ce-afac-a11fed6fe296</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Outlook</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>FirstRunExperienceCompleted</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.22cd0025-2c31-4bd7-9c8e-1358c68ac81b.alacarte.customsettings.39b9451e-fed9-4f8b-8bd4-3132b4e3c08d</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>39b9451e-fed9-4f8b-8bd4-3132b4e3c08d</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.PowerPoint</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>14\Options\Options\Hide Welcome Dialog</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.22cd0025-2c31-4bd7-9c8e-1358c68ac81b.alacarte.customsettings.1f3fbaf7-92e7-4a66-a5a8-00dc1079ed5e</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>1f3fbaf7-92e7-4a66-a5a8-00dc1079ed5e</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.Word</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>14\Options\Hide Welcome Dialog</key>
+								<integer>1</integer>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.22cd0025-2c31-4bd7-9c8e-1358c68ac81b.alacarte.customsettings.2aadf0ec-3538-4c4d-9686-486cc62de7bc</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>2aadf0ec-3538-4c4d-9686-486cc62de7bc</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.autoupdate2</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>HowToCheck</key>
+								<string>Manual</string>
+								<key>LastUpdate</key>
+								<date>2001-01-01T00:00:00Z</date>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.22cd0025-2c31-4bd7-9c8e-1358c68ac81b.alacarte.customsettings.840b8472-4c89-4b0b-8c8a-4b1e4d369f0c</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>840b8472-4c89-4b0b-8c8a-4b1e4d369f0c</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.error_reporting</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>SQMReportsEnabled</key>
+								<false/>
+								<key>ShipAssertEnabled</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.22cd0025-2c31-4bd7-9c8e-1358c68ac81b.alacarte.customsettings.010e6795-e2ca-4f21-975b-82f09de6cd78</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>010e6795-e2ca-4f21-975b-82f09de6cd78</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.microsoft.office</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>14\File New State\FNMSWD</key>
+								<integer>0</integer>
+								<key>14\File New State\FNPPT3</key>
+								<integer>0</integer>
+								<key>14\File New State\FNXCEL</key>
+								<integer>0</integer>
+								<key>14\FirstRun\SetupComplete</key>
+								<integer>1</integer>
+								<key>14\UserInfo\UserName</key>
+								<string>User</string>
+								<key>14\UserInfo\UserOrganization</key>
+								<string>Some Company</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.22cd0025-2c31-4bd7-9c8e-1358c68ac81b.alacarte.customsettings.2b42511a-d980-41f6-99df-7a59f99e7c79</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>2b42511a-d980-41f6-99df-7a59f99e7c79</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.microsoft.Excel
+com.microsoft.Outlook
+com.microsoft.PowerPoint
+com.microsoft.Word
+com.microsoft.autoupdate2
+com.microsoft.error_reporting
+com.microsoft.office
+
+Git revision: 1d30395cd4</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.microsoft.Excel</string>
+	<key>PayloadIdentifier</key>
+	<string>edu.lafayette.Office2011Prefs</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>22cd0025-2c31-4bd7-9c8e-1358c68ac81b</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
