@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadIdentifier</key>
+		<string>org.myorg.VLCSettings</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadScope</key>
+		<string>User</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>54276465-5208-48a6-a97e-25d668bc93d4</string>
+		<key>PayloadOrganization</key>
+		<string>Lafayette College</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadDisplayName</key>
+		<string>Settings for VLC</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadType</key>
+				<string>org.videolan.vlc</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>PayloadIdentifier</key>
+				<string>org.myorg.VLCSettings</string>
+				<key>PayloadEnabled</key>
+				<true/>
+				<key>PayloadUUID</key>
+				<string>cf7dab4f-d5e3-40c3-aed0-e2c1723700d5</string>
+				<key>PayloadDisplayName</key>
+				<string>VLC Settings</string>
+				<key>SUEnableAutomaticChecks</key>
+				<false/>
+				<key>SUHasLaunchedBefore</key>
+				<true/>
+				<key>VLCFirstRun</key>
+				<date>2015-05-22T00:00:00Z</date>
+			</dict>
+		</array>
+	</dict>
+</plist>
